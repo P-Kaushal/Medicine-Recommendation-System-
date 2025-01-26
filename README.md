@@ -5,9 +5,6 @@ The Medicine Recommendation System is designed to assist in recommending appropr
 The project is made completely with modular code approach and follows the production grade code writing principles.
 It is trained on multiple machine learning models and the best out of them is chosen up for the predictions based on the accuracy, precision, recall and F1-score. 
 
-## Direct link to app
-Click [here](https://medicine-recommender.streamlit.app/) to give it up a try and let your inner doctor found some dignosis for quirky diseses. Altough the accuracy scores are quite good, but I recommend not taking this as any sort of medical advise, your doctor should be the first person whom you should be consulting. But for having fun and experimenting you can try this out.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
@@ -26,7 +23,7 @@ To install and run the Medicine Recommendation System, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/akshatbindal/Medicine-Recommendation-System.git
+    git clone https://github.com/P-Kaushal/Medicine-Recommendation-System-
     ```
 2. Navigate to the project directory:
     ```sh
@@ -77,7 +74,7 @@ Example usage and data processing steps can be found in the Jupyter Notebooks wi
 - Check the console for error messages and stack traces.
 
 ## Contributors
-- Akshat Bindal (https://github.com/akshatbindal)
+- Kaushal Prajapati (https://github.com/P-Kaushal)
 
 ## License
 This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details.
