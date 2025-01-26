@@ -1,8 +1,9 @@
 Metadata-Version: 2.2
 Name: Medicine-Recommendation-System
 Version: 0.0.1
-Author: Akshat Bindal
-Author-email: akshatbindal01@gmail.com
+Author: Kaushal Prajapati
+Author-email: prajapatikaushal279@gmail.com
+License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn

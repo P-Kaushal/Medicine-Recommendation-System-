@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 Medicine_Recommendation_System.egg-info/PKG-INFO
@@ -5,3 +6,12 @@ Medicine_Recommendation_System.egg-info/SOURCES.txt
 Medicine_Recommendation_System.egg-info/dependency_links.txt
 Medicine_Recommendation_System.egg-info/requires.txt
 Medicine_Recommendation_System.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/model_trainer.py
+src/pipeline/__init__.py
+src/pipeline/predict.py
