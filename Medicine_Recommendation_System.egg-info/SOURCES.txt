@@ -1,0 +1,7 @@
+README.md
+setup.py
+Medicine_Recommendation_System.egg-info/PKG-INFO
+Medicine_Recommendation_System.egg-info/SOURCES.txt
+Medicine_Recommendation_System.egg-info/dependency_links.txt
+Medicine_Recommendation_System.egg-info/requires.txt
+Medicine_Recommendation_System.egg-info/top_level.txt
